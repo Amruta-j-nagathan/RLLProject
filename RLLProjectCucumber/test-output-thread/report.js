@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"868a9d6e-ce2f-4ded-b879-8705c7258c3f","feature":"Test Chilternoak Furniture page I want to use this template for my feature file","scenario":"Testing of ContactUs Page","start":1705390507344,"group":1,"content":"","tags":"@all,","end":1705390613018,"className":"passed"},{"id":"b93a73d6-3e24-4fb1-9df8-23391470c88b","feature":"Test Chilternoak Furniture page I want to use this template for my feature file","scenario":"Testing of ContactUs Page","start":1705390613039,"group":1,"content":"","tags":"@all,","end":1705390694896,"className":"passed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":1,"content":"Thread[main,5,main]"}]);
+});
